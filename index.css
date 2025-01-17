@@ -1,0 +1,51 @@
+#techies{
+    text-align: center;
+    padding: 20%;
+}
+
+h1 {
+    font-size:40px;
+    color: #ffffff;
+    background-color: #c9b59f;
+    margin-bottom:1em;
+    padding-top:1em;
+    padding-bottom:1em;
+    text-align: center;
+  }
+
+  p {
+    line-height: 1.6;
+    font-size:20px;
+}
+
+/*#home{
+    text-align: center;
+    background-color: #c9b59f;
+}
+
+#rev{
+    text-align: center;
+    background-color: #c9b59f;
+}*/
+
+button{
+    background-color: #c9b59f;
+    padding: 15px;
+    font-size: larger;
+    color:white;
+
+}
+
+.small {
+    width:100px;
+}
+
+body {
+    text-align: center;
+    align-self: center;
+    color:#53412c;
+}
+
+img{
+    padding-top:30em;
+}
